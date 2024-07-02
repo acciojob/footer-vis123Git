@@ -1,1 +1,9 @@
-/* your code here */
+footer{
+	background-color : black;
+	color : white;
+}
+
+.top{
+	display :flex;
+	justify-content : space-between;
+}
