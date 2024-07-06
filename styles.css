@@ -6,13 +6,25 @@ footer{
 .top{
 	display :flex;
 	justify-content : space-between;
+		padding :10px;
+	align-items : center;
+
+}
+
+.media-icons{
+	display :flex;
+	gap : 10px;
+
+
 }
 
 .link-boxes{
-	display : flex
+	display : flex;
+	padding :10px;
+
 }
 
-.ul{
+ul{
 	list-style-type : none;
 }
 
