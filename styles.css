@@ -7,3 +7,18 @@ footer{
 	display :flex;
 	justify-content : space-between;
 }
+
+.link-boxes{
+	display : flex
+}
+
+.ul{
+	list-style-type : none;
+}
+
+.bottom-details{
+	display : flex;
+	justify-content : space-between;
+	background-color : #2C303A;
+	padding : 10px 10px;
+}
